@@ -1,4 +1,4 @@
-### Hey, I'm Janahan - An engineering student at UBC.
+### Hey, I'm Janahan 👋 - An engineering student at UBC.
 
 Previously, I've worked at...
 
